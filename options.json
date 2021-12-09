@@ -1596,6 +1596,6 @@
   },
   "packageName": {
     "type": "text",
-    "default": "com.example.demo"
+    "default": "com.example.springdemo"
   }
 }
